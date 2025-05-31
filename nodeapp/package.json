@@ -1,0 +1,25 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000C\u0000o\u0000m\u0000p\u0000l\u0000e\u0000t\u0000e\u0000_\u0000C\u0000I\u0000-\u0000C\u0000D\u0000_\u0000w\u0000i\u0000t\u0000h\u0000_\u0000T\u0000e\u0000r\u0000r\u0000a\u0000f\u0000o\u0000r\u0000m\u0000_\u0000a\u0000n\u0000d\u0000_\u0000A\u0000W\u0000S\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ines312692",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ines312692/Complete_CI-CD_with_Terraform_and_AWS.git"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "bugs": {
+    "url": "https://github.com/ines312692/Complete_CI-CD_with_Terraform_and_AWS/issues"
+  },
+  "homepage": "https://github.com/ines312692/Complete_CI-CD_with_Terraform_and_AWS#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
